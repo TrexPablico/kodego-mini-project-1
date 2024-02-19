@@ -3,19 +3,13 @@
   max-height: 350px;
   object-fit: cover;
   max-width: 300px;
-  margin-top: 250px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
-.carousel-inner {
-  min-height: 400px;
-  max-width: 350px;
-}
-h2 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-}
-p {
-  position: absolute;
-  top: 60%;
-  left: 50%;
+.col-6 {
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 80px;
+  font-family: sans-serif;
 }
